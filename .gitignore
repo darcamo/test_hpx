@@ -1,0 +1,4 @@
+.cquery*
+.idea
+cmake-build*
+compile_commands.json

@@ -1,0 +1,7 @@
+[requires]
+hpx/1.3.0@darcamo/stable
+
+[generators]
+cmake
+
+[options]
